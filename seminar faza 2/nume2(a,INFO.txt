@@ -1,0 +1,1 @@
+nume2(a, integer, 5, 2)

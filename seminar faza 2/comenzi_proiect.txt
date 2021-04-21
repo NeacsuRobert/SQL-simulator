@@ -1,0 +1,11 @@
+CREATE TABLE tabel1 ((col1, text, 4, default), (col2, integer, 4, 0))
+
+INSERT INTO tabel1 VALUES(proiect, 9)
+
+SELECT (col1) FROM tabel1
+
+DELETE FROM tabel1 WHERE col1 = proiect
+
+DISPLAY TABLE tabel1
+
+DROP TABLE tabel1

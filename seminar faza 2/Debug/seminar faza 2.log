@@ -1,0 +1,15 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(306,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(413,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(756,6): warning C4101: 'a': unreferenced local variable
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(757,8): warning C4101: 'b': unreferenced local variable
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(972,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(957,7): warning C4101: 'a': unreferenced local variable
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(958,9): warning C4101: 'b': unreferenced local variable
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(1111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(1392,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(753): warning C4715: 'SELECT': not all control paths return a value
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(985): warning C4715: 'DELETE': not all control paths return a value
+C:\Users\Robert\source\repos\seminar faza 2\seminar faza 2\Source.cpp(1124): warning C4715: 'DISPLAY_TABLE': not all control paths return a value
+  seminar faza 2.vcxproj -> C:\Users\Robert\source\repos\seminar faza 2\Debug\seminar faza 2.exe
